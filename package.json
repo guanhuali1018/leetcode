@@ -1,0 +1,24 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "LeetCode Algorithms Problems' Javascript Solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanhuali1018/leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guanhuali1018/leetcode/issues"
+  },
+  "homepage": "https://github.com/guanhuali1018/leetcode#readme",
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
