@@ -1,2 +1,2 @@
 # leetcode
-LeetCode Algorithms Problems' Javascript Solutions
+LeetCode Problems Personal Practice Records
