@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/guanhuali1018/leetcode#readme",
   "devDependencies": {
-    "eslint": "^7.31.0",
-    "eslint-config-google": "^0.14.0"
+    "eslint": "^7.31.0"
   }
 }
