@@ -25,6 +25,3 @@ const threeSum = (nums) => {
   }
   return result
 }
-const result = threeSum([-2, 0, 0, 2, 2])
-
-console.log(result)
