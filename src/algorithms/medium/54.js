@@ -15,7 +15,7 @@ const spiralOrder = (matrix) => {
 
     for (let row = startRow + 1; row <= endRow; row++) {
       result.push(matrix[row][endCol])
-    } // up => down
+    } // top => down
 
     for (let col = endCol - 1; col >= startCol; col--) {
       if (startRow === endRow) break
@@ -25,13 +25,12 @@ const spiralOrder = (matrix) => {
     for (let row = endRow - 1; row > startRow; row--) {
       if (startCol === endCol) break
       result.push(matrix[row][startCol])
-    } // down => up
+    } // down => top
 
     startRow++
     endRow--
     startCol++
     endCol--
   }
-
   return result
 }
