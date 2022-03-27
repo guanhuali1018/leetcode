@@ -10,4 +10,3 @@ const twoSum = (nums, target) => {
   }
   return [];
 };
-// test
